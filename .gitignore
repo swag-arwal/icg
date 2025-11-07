@@ -4,3 +4,4 @@
 /.venv
 # ignore .env
 .env
+#*.env
