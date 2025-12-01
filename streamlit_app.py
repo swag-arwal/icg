@@ -44,12 +44,20 @@ st.markdown("""
 
 # Constants
 FILES_TO_PROCESS = [
-    "punjab.json",
-    "all_india.json",
     "andhra_pradesh.json",
     "bihar.json",
-    "UP.json",
-    "MP.json"
+    "MP.json",
+    "punjab.json",
+    "all_india.json",
+    "odisha.json",
+    "Rajasthan.json",
+    "Sikkim.json",
+    "tamil_nadu.json",
+    "telangana.json",
+    "tripura.json",
+    "Uttarakhand.json",
+    "Uttar_Pradesh.json"
+
 ]
 
 # Initialize session state
