@@ -1,0 +1,405 @@
+[
+    {
+        "title": "Table 1: % Children enrolled in different types of schools. By age group and sex. 2024",
+        "description": "Enrollment statistics for children in Rajasthan for the year 2024, categorized by age groups (6-16) and gender. The table provides a percentage breakdown of students enrolled in Government, Private, and Other schools, as well as those not currently in school. It also includes longitudinal trends (2006-2024) for out-of-school children aged 11-16 and enrollment shifts in government schools.",
+        "data": [
+            "| --- | --- | --- | --- | --- | --- |",
+            "| Age group and sex | Govt | Pvt | Other | Not in school | Total |",
+            "| Age 6-14: All | 59.3 | 38.3 | 0.3 | 2.2 | 100 |",
+            "| Age 7-16: All | 60.1 | 36.2 | 0.2 | 3.4 | 100 |",
+            "| Age 7-10: All | 57.1 | 41.2 | 0.3 | 1.4 | 100 |",
+            "| Age 7-10: Boys | 52.4 | 46.4 | 0.3 | 1.0 | 100 |",
+            "| Age 7-10: Girls | 62.5 | 35.4 | 0.3 | 1.8 | 100 |",
+            "| Age 11-14: All | 62.3 | 34.9 | 0.2 | 2.6 | 100 |",
+            "| Age 11-14: Boys | 56.6 | 41.5 | 0.2 | 1.7 | 100 |",
+            "| Age 11-14: Girls | 68.3 | 27.9 | 0.2 | 3.5 | 100 |",
+            "| Age 15-16: All | 62.0 | 26.6 | 0.0 | 11.3 | 100 |",
+            "| Age 15-16: Boys | 58.2 | 31.9 | 0.1 | 9.9 | 100 |",
+            "| Age 15-16: Girls | 65.7 | 21.7 | 0.0 | 12.7 | 100 |",
+            "| Chart 1: Trends over time",
+            "| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |",
+            "| Chart 1: Trends over time",
+            "|  | 2006 | 2008 | 2010 | 2012 | 2014 | 2016 | 2018 | 2022 | 2024 |",
+            "| 11-14: Boys | 9.9 | 6.6 | 5.5 | 4.9 | 5.0 | 4.5 | 3.5 | 1.7 | 1.7 |",
+            "| 11-14: Girls | 19.6 | 14.8 | 12.1 | 11.2 | 12.1 | 9.7 | 7.4 | 2.9 | 3.5 |",
+            "| 15-16: Boys | 22.6 | 19.6 | 16.4 | 15.6 | 18.4 | 15.0 | 11.7 | 8.2 | 9.9 |",
+            "| 15-16: Girls | 37.7 | 32.2 | 27.7 | 29.8 | 31.1 | 25.4 | 20.1 | 9.4 | 12.7 |",
+            "| Chart 2: Trends over time                                                                                                                                                  % Children enrolled in government schools in Std I-V and Std VI-VIII by sex                                                            2018, 2022, 2024 | Chart 2: Trends over time                                                                                                                                                  % Children enrolled in government schools in Std I-V and Std VI-VIII by sex                                                            2018, 2022, 2024 | Chart 2: Trends over time                                                                                                                                                  % Children enrolled in government schools in Std I-V and Std VI-VIII by sex                                                            2018, 2022, 2024 | Chart 2: Trends over time                                                                                                                                                  % Children enrolled in government schools in Std I-V and Std VI-VIII by sex                                                            2018, 2022, 2024 | Chart 2: Trends over time                                                                                                                                                  % Children enrolled in government schools in Std I-V and Std VI-VIII by sex                                                            2018, 2022, 2024 |",
+            "| --- | --- | --- | --- | --- |",
+            "| Year | Std I-V | Std I-V | Std VI-VIII | Std VI-VIII |",
+            "| Year | Boys | Girls | Boys | Girls |",
+            "| 2018 | 55.8 | 66.9 | 60.1 | 71.5 |",
+            "| 2022 | 64.8 | 72.9 | 67.5 | 77.8 |",
+            "| 2024 | 51.7 | 61.5 | 59.7 | 72.1 |"
+        ]
+    },
+    {
+        "title": "Table 2: % Children enrolled in different types of pre-schools and schools. By age. 2022",
+        "description": "Enrollment distribution for children aged 3 to 8 years in Rajasthan for the year 2022. The table details participation in Anganwadis, government pre-primary centers, private LKG/UKG, and formal government or private schools, alongside the percentage of children not attending any institution.",
+        "data": [
+            "| --- | --- | --- | --- | --- | --- | --- | --- | --- |",
+            "| Age | Pre-school | Pre-school | Pre-school | School | School | School | Not in pre-school or school | Total |",
+            "| Age | Angan-wadi | Govt pre-primary | Pvt LKG/UKG | Govt | Pvt | Other | Not in pre-school or school | Total |",
+            "| Age 3 | 56.3 | 0.5 | 8.0 | 3.2 | 1.6 | 0.0 | 30.4 | 100 |",
+            "| Age 4 | 50.1 | 1.2 | 15.4 | 8.0 | 6.2 | 0.0 | 19.1 | 100 |",
+            "| Age 5 | 16.9 | 0.8 | 12.5 | 44.8 | 18.1 | 0.1 | 6.8 | 100 |",
+            "| Age 6 | 2.4 | 0.3 | 5.4 | 61.0 | 27.6 | 0.2 | 3.3 | 100 |",
+            "| Age 7 | 0.8 | 0.0 | 1.7 | 66.8 | 28.7 | 0.3 | 1.7 | 100 |",
+            "| Age 8 | 0.3 | 0.0 | 0.3 | 68.2 | 29.5 | 0.2 | 1.5 | 100 |"
+        ]
+    },
+    {
+        "title": "Table 3: % Children enrolled in different types of pre-schools and schools. By age. 2024",
+        "description": "Updated enrollment statistics for children aged 3 to 8 years in Rajasthan for the year 2024. This table covers participation in pre-schooling (Anganwadi, Govt pre-primary, Private LKG/UKG) and formal schooling, allowing comparisons with 2022 data regarding early childhood education trends.",
+        "data": [
+            "| --- | --- | --- | --- | --- | --- | --- | --- | --- |",
+            "| Age | Pre-school | Pre-school | Pre-school | School | School | School | Not in pre-school or school | Total |",
+            "| Age | Angan-wadi | Govt pre-primary | Pvt LKG/ UKG | Govt | Pvt | Other | Not in pre-school or school | Total |",
+            "| Age 3 | 45.1 | 4.4 | 11.9 | 1.4 | 2.0 | 0.1 | 35.2 | 100 |",
+            "| Age 4 | 36.8 | 4.0 | 26.1 | 6.3 | 7.0 | 0.2 | 19.6 | 100 |",
+            "| Age 5 | 19.1 | 3.4 | 22.3 | 25.7 | 21.2 | 0.2 | 8.2 | 100 |",
+            "| Age 6 | 5.0 | 1.2 | 12.9 | 43.1 | 34.3 | 0.4 | 3.1 | 100 |",
+            "| Age 7 | 1.3 | 0.3 | 3.5 | 53.3 | 39.4 | 0.4 | 1.7 | 100 |",
+            "| Age 8 | 0.3 | 0.1 | 1.3 | 55.5 | 41.2 | 0.3 | 1.3 | 100 |"
+        ]
+    },
+    {
+        "title": "Table 4: % Children by grade and reading level. All children. 2024",
+        "description": "Foundational literacy assessment data for Rajasthan students in 2024. The table displays the percentage of children in grades I through VIII categorized by their highest reading proficiency level, ranging from 'not even letter' to 'Standard II level text'.",
+        "data": [
+            "| --- | --- | --- | --- | --- | --- | --- | --- |",
+            "| Std | Not even letter | Letter | Word | Std I level text | Std II level text | Total |",
+            "| I | 47.4 | 37.6 | 8.5 | 4.0 | 2.5 | 100 |",
+            "| II | 23.1 | 43.8 | 15.0 | 10.8 | 7.3 | 100 |",
+            "| III | 11.6 | 34.8 | 18.7 | 16.3 | 18.6 | 100 |",
+            "| IV | 7.3 | 22.7 | 16.8 | 20.6 | 32.7 | 100 |",
+            "| V | 5.5 | 15.6 | 13.1 | 18.3 | 47.6 | 100 |",
+            "| VI | 3.6 | 12.8 | 10.7 | 17.8 | 55.2 | 100 |",
+            "| VII | 2.9 | 9.6 | 8.4 | 15.8 | 63.4 | 100 |",
+            "| VIII | 2.0 | 7.4 | 7.0 | 14.6 | 69.1 | 100 |"
+        ]
+    },
+    {
+        "title": "Table 5: Trends over time",
+        "description": "Longitudinal trends (2014-2024) of reading proficiency for Standard III students in Rajasthan. The table tracks the percentage of children capable of reading Standard II level text, broken down by Government and Private school enrollment.",
+        "data": [
+            "| --- | --- | --- | --- |",
+            "| Year | % Children in Std III who can read Std II level text | % Children in Std III who can read Std II level text | % Children in Std III who can read Std II level text |",
+            "| Year | Govt | Pvt | Govt & Pvt* |",
+            "| 2014 | 10.7 | 33.3 | 21.1 |",
+            "| 2016 | 15.1 | 35.0 | 23.7 |",
+            "| 2018 | 10.3 | 37.0 | 20.6 |",
+            "| 2022 | 7.7 | 27.6 | 14.2 |",
+            "| 2024 | 12.1 | 28.0 | 18.7 |"
+        ]
+    },
+    {
+        "title": "Table 6: Trends over time",
+        "description": "Reading proficiency trends for older primary students (Std V and Std VIII) in Rajasthan from 2014 to 2024. The data compares Government vs. Private school performance and includes a specific gender breakdown (Boys vs. Girls) for reading levels in 2022 and 2024.",
+        "data": [
+            "| --- | --- | --- | --- | --- | --- | --- |",
+            "| Year | % Children in Std V who can read Std II level text | % Children in Std V who can read Std II level text | % Children in Std V who can read Std II level text | % Children in Std VIII who can read Std II level text | % Children in Std VIII who can read Std II level text | % Children in Std VIII who can read Std II level text |",
+            "| Year | Govt | Pvt | Govt & Pvt* | Govt | Pvt | Govt & Pvt* |",
+            "| 2014 | 34.4 | 65.4 | 46.6 | 74.9 | 89.4 | 80.6 |",
+            "| 2016 | 42.5 | 69.8 | 54.1 | 77.7 | 87.1 | 80.9 |",
+            "| 2018 | 39.1 | 65.8 | 49.3 | 74.6 | 87.0 | 78.5 |",
+            "| 2022 | 31.5 | 57.0 | 38.2 | 67.1 | 83.9 | 71.5 |",
+            "| 2024 | 37.7 | 63.5 | 47.5 | 63.8 | 80.6 | 69.0 |",
+            "| Chart 3: % Children who can read a Std II level text. By grade and sex. 2022 and 2024 | Chart 3: % Children who can read a Std II level text. By grade and sex. 2022 and 2024 | Chart 3: % Children who can read a Std II level text. By grade and sex. 2022 and 2024 | Chart 3: % Children who can read a Std II level text. By grade and sex. 2022 and 2024 | Chart 3: % Children who can read a Std II level text. By grade and sex. 2022 and 2024 | Chart 3: % Children who can read a Std II level text. By grade and sex. 2022 and 2024 | Chart 3: % Children who can read a Std II level text. By grade and sex. 2022 and 2024 |",
+            "| --- | --- | --- | --- | --- | --- | --- |",
+            "| Chart 3: % Children who can read a Std II level text. By grade and sex. 2022 and 2024 | Chart 3: % Children who can read a Std II level text. By grade and sex. 2022 and 2024 | Chart 3: % Children who can read a Std II level text. By grade and sex. 2022 and 2024 | Chart 3: % Children who can read a Std II level text. By grade and sex. 2022 and 2024 | Chart 3: % Children who can read a Std II level text. By grade and sex. 2022 and 2024 | Chart 3: % Children who can read a Std II level text. By grade and sex. 2022 and 2024 | Chart 3: % Children who can read a Std II level text. By grade and sex. 2022 and 2024 |",
+            "|  | Std III | Std III | Std V | Std V | Std VIII | Std VIII |",
+            "|  | Boys | Girls | Boys | Girls | Boys | Girls |",
+            "| 2022 | 14.6 | 13.6 | 39.8 | 36.5 | 69.4 | 74.0 |",
+            "| 2024 | 18.6 | 18.6 | 46.9 | 48.3 | 68.5 | 69.7 |"
+        ]
+    },
+    {
+        "title": "Table 7: % Children by grade and arithmetic level. All children. 2024",
+        "description": "Foundational numeracy assessment for Rajasthan in 2024. The table displays the percentage of children in grades I through VIII categorized by their highest arithmetic capability, such as recognizing numbers, performing subtraction, or solving division problems.",
+        "data": [
+            "| --- | --- | --- | --- | --- | --- | --- |",
+            "| Std | Not even",
+            "| Std | Not even",
+            "| I | 42.4 | 37.7 | 17.8 | 1.3 | 0.7 | 100 |",
+            "| II | 17.0 | 46.9 | 28.4 | 6.6 | 1.2 | 100 |",
+            "| III | 7.1 | 38.2 | 34.7 | 14.3 | 5.7 | 100 |",
+            "| IV | 3.7 | 26.5 | 37.4 | 19.0 | 13.5 | 100 |",
+            "| V | 2.8 | 19.4 | 34.1 | 21.9 | 21.9 | 100 |",
+            "| VI | 1.7 | 15.9 | 36.9 | 20.7 | 24.9 | 100 |",
+            "| VII | 1.1 | 12.3 | 34.9 | 20.9 | 30.8 | 100 |",
+            "| VIII | 1.2 | 7.9 | 34.9 | 22.7 | 33.3 | 100 |"
+        ]
+    },
+    {
+        "title": "Table 8: Trends over time",
+        "description": "Trends in basic arithmetic (subtraction) proficiency for Standard III students in Rajasthan from 2014 to 2024. The table contrasts the performance of students in Government schools versus those in Private schools.",
+        "data": [
+            "| --- | --- | --- | --- |",
+            "| Year | % Children in Std III who can do at least subtraction | % Children in Std III who can do at least subtraction | % Children in Std III who can do at least subtraction |",
+            "| Year | Govt | Pvt | Govt & Pvt* |",
+            "| 2014 | 8.7 | 36.6 | 21.5 |",
+            "| 2016 | 11.0 | 35.4 | 21.5 |",
+            "| 2018 | 8.1 | 32.2 | 17.4 |",
+            "| 2022 | 4.9 | 26.3 | 11.8 |",
+            "| 2024 | 10.4 | 33.9 | 20.1 |"
+        ]
+    },
+    {
+        "title": "Table 9: Trends over time",
+        "description": "Historical data (2014-2024) on division-level arithmetic proficiency for Standard V and Standard VIII students in Rajasthan, sorted by school type. Includes a detailed gender breakdown (Boys vs. Girls) for division skills in 2022 and 2024.",
+        "data": [
+            "| --- | --- | --- | --- | --- | --- | --- |",
+            "| Year | % Children in Std V who can do division | % Children in Std V who can do division | % Children in Std V who can do division | % Children in Std VIII who can do division | % Children in Std VIII who can do division | % Children in Std VIII who can do division |",
+            "| Year | Govt | Pvt | Govt & Pvt* | Govt | Pvt | Govt & Pvt* |",
+            "| 2014 | 12.0 | 41.3 | 23.6 | 38.3 | 63.7 | 48.3 |",
+            "| 2016 | 15.6 | 45.5 | 28.2 | 39.3 | 61.2 | 46.8 |",
+            "| 2018 | 14.1 | 38.1 | 23.3 | 34.3 | 57.8 | 41.6 |",
+            "| 2022 | 6.3 | 32.8 | 13.3 | 29.1 | 54.0 | 35.7 |",
+            "| 2024 | 12.3 | 37.2 | 21.8 | 25.5 | 50.9 | 33.3 |",
+            "| Chart 4: % Children who can do division. By grade and sex. 2022 and 2024 | Chart 4: % Children who can do division. By grade and sex. 2022 and 2024 | Chart 4: % Children who can do division. By grade and sex. 2022 and 2024 | Chart 4: % Children who can do division. By grade and sex. 2022 and 2024 | Chart 4: % Children who can do division. By grade and sex. 2022 and 2024 |",
+            "| --- | --- | --- | --- | --- |",
+            "| Chart 4: % Children who can do division. By grade and sex. 2022 and 2024 | Chart 4: % Children who can do division. By grade and sex. 2022 and 2024 | Chart 4: % Children who can do division. By grade and sex. 2022 and 2024 | Chart 4: % Children who can do division. By grade and sex. 2022 and 2024 | Chart 4: % Children who can do division. By grade and sex. 2022 and 2024 |",
+            "|  | Std V | Std V | Std VIII | Std VIII |",
+            "|  | Boys | Girls | Boys | Girls |",
+            "| 2022 | 15.0 | 11.3 | 38.1 | 32.7 |",
+            "| 2024 | 23.6 | 20.0 | 35.4 | 31.0 |"
+        ]
+    },
+    {
+        "title": "Table 10: Smartphone availability and use. By age. 2024",
+        "description": "Digital access survey results for 2024 covering children aged 14 to 16 in Rajasthan. This table tracks smartphone availability at home, the children's ability to use them for digital tasks, and the percentage of children who personally own a smartphone.",
+        "data": [
+            "| --- | --- | --- | --- | --- |",
+            "| Age | % Children who: | % Children who: | % Children who: | Of those who can use a smartphone, % who have their own smartphone |",
+            "| Age | Have a smart-phone at home | Could bring a smartphone to do digital tasks* | Can use a smartphone | Of those who can use a smartphone, % who have their own smartphone |",
+            "| 14 | 91.1 | 46.8 | 75.7 | 32.7 |",
+            "| 15 | 91.7 | 49.2 | 79.3 | 39.5 |",
+            "| 16 | 92.6 | 56.7 | 82.8 | 44.3 |",
+            "| All | 91.7 | 50.5 | 78.9 | 38.5 |"
+        ]
+    },
+    {
+        "title": "Table 11: Smartphone availability and use among 14-16-year-olds. By sex. 2024",
+        "description": "Gender-based analysis of smartphone accessibility and ownership for adolescents (ages 14-16) in Rajasthan for 2024. The data compares boys and girls regarding home availability, digital task capability, and personal device ownership.",
+        "data": [
+            "| --- | --- | --- | --- | --- |",
+            "| Sex | % Children who: | % Children who: | % Children who: | Of those who can use a smartphone, % who have their own smartphone |",
+            "| Sex | Have a smartphone at home | Could bring a smartphone to do digital tasks* | Can use a smart-phone | Of those who can use a smartphone, % who have their own smartphone |",
+            "| Boys | 92.0 | 54.3 | 82.2 | 42.7 |",
+            "| Girls | 91.5 | 47.1 | 76.1 | 34.6 |",
+            "| All | 91.7 | 50.5 | 78.9 | 38.5 |"
+        ]
+    },
+    {
+        "title": "Table 12: Of those who know how to use a smartphone, % children who used a smartphone in the reference week for any educational activity and social media activity, and know how to use safety features. By age. 2024",
+        "description": "Usage patterns and digital safety awareness among smartphone-using children (ages 14-16) in Rajasthan (2024). The table contrasts educational usage against social media engagement and measures knowledge of safety features like blocking, privacy settings, and password management by age.",
+        "data": [
+            "| --- | --- | --- | --- | --- | --- |",
+            "| Age | % Children who did the any education-related activity in reference week | % Children who used any social media in  reference week | Of those who used social media, % children who can: | Of those who used social media, % children who can: | Of those who used social media, % children who can: |",
+            "| Age | % Children who did the any education-related activity in reference week | % Children who used any social media in  reference week | Block/report a profile | Make a profile private | Change password |",
+            "| 14 | 49.6 | 71.0 | 51.8 | 49.1 | 51.7 |",
+            "| 15 | 49.4 | 74.1 | 59.0 | 54.5 | 53.9 |",
+            "| 16 | 52.8 | 75.6 | 66.8 | 65.9 | 65.3 |",
+            "| All | 50.5 | 73.5 | 58.9 | 56.3 | 56.8 |"
+        ]
+    },
+    {
+        "title": "Table 13: Of those who know how to use a smartphone, % children aged 14-16 who used a smartphone in the reference week for any educational activity and social media activity, and know how to use safety features, by sex. 2024",
+        "description": "Gender breakdown of smartphone usage habits and online safety skills in Rajasthan (2024). This table compares boys and girls (ages 14-16) regarding their participation in educational activities vs. social media, and their ability to manage online security settings.",
+        "data": [
+            "| --- | --- | --- | --- | --- | --- |",
+            "| Sex | % Children who did the any education-related activity in reference week | % Children who used any social media in  reference week | Of those who used social media, % children who can: | Of those who used social media, % children who can: | Of those who used social media, % children who can: |",
+            "| Sex | % Children who did the any education-related activity in reference week | % Children who used any social media in  reference week | Block/ report a profile | Make a profile private | Change password |",
+            "| Boys | 48.7 | 77.8 | 62.9 | 61.7 | 64.4 |",
+            "| Girls | 52.1 | 69.4 | 54.8 | 50.6 | 48.7 |",
+            "| All | 50.5 | 73.5 | 58.9 | 56.3 | 56.8 |"
+        ]
+    },
+    {
+        "title": "Table 14: % Children who could do digital tasks, by age and sex. 2024",
+        "description": "Assessment of specific digital competencies among adolescents in Rajasthan (2024). The data details the percentage of boys and girls (ages 14-16) who can perform practical digital tasks such as setting alarms, browsing for information, finding YouTube videos, and sharing content.",
+        "data": [
+            "| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |",
+            "| Age | % Children who could bring a smartphone to do digital tasks* | % Children who could bring a smartphone to do digital tasks* | % Children who could bring a smartphone to do digital tasks* | Of those who could bring a smartphone, % who could do the following tasks: | Of those who could bring a smartphone, % who could do the following tasks: | Of those who could bring a smartphone, % who could do the following tasks: | Of those who could bring a smartphone, % who could do the following tasks: | Of those who could bring a smartphone, % who could do the following tasks: | Of those who could bring a smartphone, % who could do the following tasks: | Of those who could bring a smartphone, % who could do the following tasks: | Of those who could bring a smartphone, % who could do the following tasks: | Of those who could bring a smartphone, % who could do the following tasks: | Of those who could bring a smartphone, % who could do the following tasks: | Of those who could bring a smartphone, % who could do the following tasks: | Of those who could bring a smartphone, % who could do the following tasks: |",
+            "| Age | % Children who could bring a smartphone to do digital tasks* | % Children who could bring a smartphone to do digital tasks* | % Children who could bring a smartphone to do digital tasks* | Setting an alarm | Setting an alarm | Setting an alarm | Browsing for information | Browsing for information | Browsing for information | Finding YouTube video | Finding YouTube video | Finding YouTube video | Of those who found video, % able to share it | Of those who found video, % able to share it | Of those who found video, % able to share it |",
+            "| Age | Boys | Girls | All | Boys | Girls | All | Boys | Girls | All | Boys | Girls | All | Boys | Girls | All |",
+            "| 14 | 50.9 | 43.1 | 46.8 | 72.2 | 62.3 | 67.4 | 75.8 | 77.8 | 76.7 | 80.1 | 76.3 | 78.3 | 88.2 | 87.8 | 88.0 |",
+            "| 15 | 53.5 | 45.5 | 49.2 | 79.3 | 68.3 | 73.9 | 81.9 | 81.5 | 81.7 | 83.9 | 83.1 | 83.5 | 93.0 | 85.5 | 89.3 |",
+            "| 16 | 60.0 | 53.9 | 56.7 | 82.2 | 70.4 | 76.1 | 84.9 | 85.0 | 85.0 | 85.5 | 86.3 | 85.9 | 94.7 | 87.2 | 90.9 |",
+            "| All | 54.3 | 47.1 | 50.5 | 77.7 | 67.0 | 72.4 | 80.7 | 81.5 | 81.1 | 83.0 | 82.0 | 82.5 | 91.9 | 86.8 | 89.4 |"
+        ]
+    },
+    {
+        "title": "Table 15: Trends over time",
+        "description": "Logistical data regarding the ASER survey in Rajasthan, listing the total number of Primary and Upper Primary schools visited during the 2010, 2018, 2022, and 2024 data collection cycles.",
+        "data": [
+            "| --- | --- | --- | --- | --- |",
+            "|  | 2010 | 2018 | 2022 | 2024 |",
+            "| Primary schools* | 290 | 172 | 189 | 179 |",
+            "| Upper primary schools* | 606 | 665 | 560 | 606 |",
+            "| Total schools visited | 896 | 837 | 749 | 785 |"
+        ]
+    },
+    {
+        "title": "Table 16: Trends over time",
+        "description": "Trends in average student and teacher attendance rates in Rajasthan Primary and Upper Primary schools. The table compares attendance data points from 2010, 2018, 2022, and 2024.",
+        "data": [
+            "| --- | --- | --- | --- | --- |",
+            "| Primary schools | 2010 | 2018 | 2022 | 2024 |",
+            "| % Enrolled children present (Average) | 71.2 | 74.1 | 74.9 | 74.9 |",
+            "| % Teachers present (Average) | 90.1 | 83.7 | 85.9 | 91.8 |",
+            "| Upper primary schools | 2010 | 2018 | 2022 | 2024 |",
+            "| % Enrolled children present (Average) | 73.6 | 75.4 | 73.1 | 73.3 |",
+            "| % Teachers present (Average) | 88.0 | 86.5 | 84.0 | 86.8 |"
+        ]
+    },
+    {
+        "title": "Table 17: Trends over time",
+        "description": "Data tracking the percentage of Primary and Upper Primary schools in Rajasthan with low enrollment or specific size characteristics across the years 2010, 2018, 2022, and 2024.",
+        "data": [
+            "| --- | --- | --- | --- | --- |",
+            "|  | 2010 | 2018 | 2022 | 2024 |",
+            "| Primary schools | 35.9 | 61.4 | 65.1 | 69.7 |",
+            "| Upper primary schools | 2.0 | 6.3 | 7.7 | 14.3 |"
+        ]
+    },
+    {
+        "title": "Table 18: Multigrade classes. 2024",
+        "description": "Prevalence of multigrade classroom setups in Rajasthan in 2024. The data indicates the percentage of Primary and Upper Primary schools where Standard I and II children were observed sitting with other grades.",
+        "data": [
+            "| --- | --- | --- |",
+            "| % Schools | Std I children  observed sitting with any other Std | Std II children  observed sitting with any other Std |",
+            "| Primary schools | 79.6 | 80.9 |",
+            "| Upper primary schools | 67.4 | 68.6 |"
+        ]
+    },
+    {
+        "title": "Table 19: Observation of TLM (Teaching Learning Materials) in classrooms. 2024",
+        "description": "Classroom observation data for 2024 regarding the availability and display of Teaching Learning Materials (TLM) in Rajasthan. Metrics cover Std I and Std II classrooms in both Primary and Upper Primary schools.",
+        "data": [
+            "| --- | --- | --- | --- | --- |",
+            "| % Schools | TLM observed in classroom (apart from textbooks) | TLM observed in classroom (apart from textbooks) | Of those schools with TLM, work done by students displayed in classroom | Of those schools with TLM, work done by students displayed in classroom |",
+            "| % Schools | Std I | Std II | Std I | Std II |",
+            "| Primary schools | 80.1 | 78.6 | 61.0 | 63.4 |",
+            "| Upper primary schools | 81.8 | 79.9 | 72.1 | 73.0 |"
+        ]
+    },
+    {
+        "title": "Table 20: Trends over time",
+        "description": "Comprehensive overview of school infrastructure and Right to Education (RTE) compliance in Rajasthan (2010-2024). This table tracks the availability and usability of mid-day meals, drinking water, toilets (including separate girls' toilets), libraries, electricity, and computers.",
+        "data": [
+            "| --- | --- | --- | --- | --- | --- |",
+            "| % Schools with | % Schools with | 2010 | 2018 | 2022 | 2024 |",
+            "| Mid-day meal | Mid-day meal served in school on the day of visit | 94.8 | 95.1 | 95.4 | 82.4 |",
+            "| Mid-day meal | Kitchen/shed for cooking mid-day meal | 83.8 | 92.8 | 90.5 | 89.4 |",
+            "| Drinking water | No facility for drinking water | 20.9 | 17.5 | 16.9 | 10.0 |",
+            "| Drinking water | Facility but no drinking water available | 11.1 | 9.7 | 8.4 | 4.5 |",
+            "| Drinking water | Drinking water available | 68.0 | 72.8 | 74.7 | 85.6 |",
+            "| Drinking water | Total | 100 | 100 | 100 | 100 |",
+            "| Toilet | No toilet facility | 3.5 | 1.3 | 0.9 | 0.8 |",
+            "| Toilet | Facility but toilet not useable | 31.1 | 13.8 | 12.3 | 6.5 |",
+            "| Toilet | Toilet usable | 65.4 | 84.9 | 86.8 | 92.7 |",
+            "| Toilet | Total | 100 | 100 | 100 | 100 |",
+            "| Girls' toilet | No separate provision for girls' toilet | 19.6 | 4.0 | 2.8 | 4.7 |",
+            "| Girls' toilet | Separate provision but locked | 13.3 | 3.6 | 1.9 | 2.7 |",
+            "| Girls' toilet | Separate provision, unlocked but not useable | 16.8 | 11.5 | 11.0 | 4.6 |",
+            "| Girls' toilet | Separate provision, unlocked and useable | 50.3 | 80.9 | 84.4 | 88.0 |",
+            "| Girls' toilet | Total | 100 | 100 | 100 | 100 |",
+            "| Library | No library | 36.3 | 18.2 | 15.2 | 9.8 |",
+            "| Library | Library but no books being used by children on the day of visit | 40.4 | 47.7 | 48.5 | 39.8 |",
+            "| Library | Library books being used by children on the day of visit | 23.3 | 34.1 | 36.4 | 50.4 |",
+            "| Library | Total | 100 | 100 | 100 | 100 |",
+            "| Electricity | Electricity connection |  | 81.6 | 97.0 | 98.7 |",
+            "| Electricity | Of schools with electricity connection, % schools with electricity available on the day of visit |  | 87.3 | 91.3 | 93.1 |",
+            "| Computer | No computer available for children to use | 84.3 | 61.4 | 66.2 | 63.0 |",
+            "| Computer | Computer available but not being used by children on the day of visit | 10.4 | 27.0 | 22.7 | 19.8 |",
+            "| Computer | Computer being used by children on the day of visit | 5.3 | 11.6 | 11.1 | 17.2 |",
+            "| Computer | Total | 100 | 100 | 100 | 100 |"
+        ]
+    },
+    {
+        "title": "Table 21: Foundational Literacy and Numeracy (FLN) activities. 2024",
+        "description": "Implementation status of Foundational Literacy and Numeracy (FLN) initiatives in Rajasthan schools (2023-2025). The table covers government directives, teacher training (offline/online), receipt of TLM/funds, and School Readiness Programmes.",
+        "data": [
+            "| --- | --- | --- | --- | --- | --- | --- | --- |",
+            "| % Schools | % Schools | Received a directive from govt to implement FLN activities with Std I-II/III | At least one teacher received training on FLN | At least one teacher received training on FLN | Received Teaching Learning Materials (TLM) for FLN activities** | Received funds for TLM for FLN activities** | School Readiness Programme held for Std l |",
+            "| % Schools | % Schools | Received a directive from govt to implement FLN activities with Std I-II/III | Offline | Online | Received Teaching Learning Materials (TLM) for FLN activities** | Received funds for TLM for FLN activities** | School Readiness Programme held for Std l |",
+            "| Current academic year (2024-2025) | Primary schools* | 87.2 | 86.6 | 83.2 | 69.8 | 32.6 | 80.7 |",
+            "| Current academic year (2024-2025) | Upper primary schools* | 94.1 | 93.5 | 82.3 | 81.0 | 38.2 | 80.3 |",
+            "| Previous academic year (2023-2024) | Primary schools | 90.5 | 87.6 | 83.0 | 75.8 | 39.3 | 79.5 |",
+            "| Previous academic year (2023-2024) | Upper primary schools | 95.2 | 94.7 | 83.5 | 82.2 | 41.2 | 74.1 |"
+        ]
+    },
+    {
+        "title": "Table 22: Distribution of language and math textbooks. 2022 and 2024",
+        "description": "Comparison of free textbook distribution efficiency in Rajasthan schools between 2022 and 2024. The data indicates the percentage of Primary and Upper Primary schools where textbooks were distributed to all, some, or no grades.",
+        "data": [
+            "| --- | --- | --- | --- | --- | --- |",
+            "| % Schools | % Schools | Textbooks distributed | Textbooks distributed | Textbooks distributed | Textbooks distributed |",
+            "| % Schools | % Schools | All grades | Some grades | No grades/ don’t know | Total |",
+            "| Primary schools | 2022 | 98.4 | 1.1 | 0.5 | 100 |",
+            "| Primary schools | 2024 | 96.7 | 2.8 | 0.6 | 100 |",
+            "| Upper primary schools | 2022 | 98.8 | 1.1 | 0.2 | 100 |",
+            "| Upper primary schools | 2024 | 97.7 | 1.8 | 0.5 | 100 |"
+        ]
+    },
+    {
+        "title": "Table 23: Distribution of uniforms. 2022, 2024",
+        "description": "Status of school uniform distribution in Rajasthan for 2022 and 2024. The table highlights the shift towards providing funds (Direct Benefit Transfer) rather than physical uniforms for Primary and Upper Primary schools.",
+        "data": [
+            "| --- | --- | --- | --- | --- | --- | --- |",
+            "| % Schools | % Schools | Uniforms distributed | Uniforms distributed | Uniforms distributed | Uniforms distributed | If not distributed in all grades, then % schools where funds given |",
+            "| % Schools | % Schools | All grades | Some grades | No grades/ don’t know | Total | If not distributed in all grades, then % schools where funds given |",
+            "| Primary schools | 2022 | 3.8 | 43.8 | 52.4 | 100 | 2.2 |",
+            "| Primary schools | 2024 | 25.3 | 34.8 | 39.9 | 100 | 0.0 |",
+            "| Upper primary schools | 2022 | 4.7 | 47.9 | 47.4 | 100 | 0.8 |",
+            "| Upper primary schools | 2024 | 31.0 | 25.8 | 43.3 | 100 | 2.1 |"
+        ]
+    },
+    {
+        "title": "Table 24: Physical education. 2018, 2022 and 2024",
+        "description": "Availability of physical education resources in Rajasthan schools across 2018, 2022, and 2024. Metrics include time allotment for PE, the presence of specialized PE teachers, and the availability of playgrounds and sports equipment in Primary and Upper Primary schools.",
+        "data": [
+            "| --- | --- | --- | --- | --- | --- | --- | --- |",
+            "| % Schools with | % Schools with | Primary schools | Primary schools | Primary schools | Upper primary schools | Upper primary schools | Upper primary schools |",
+            "| % Schools with | % Schools with | 2018 | 2022 | 2024 | 2018 | 2022 | 2024 |",
+            "| Weekly time allotted for physical education for every class | Weekly time allotted for physical education for every class |  | 61.7 | 76.5 |  | 85.4 | 93.7 |",
+            "| Physical education teacher | Separate teacher | 8.8 | 8.5 | 9.8 | 62.0 | 54.4 | 63.9 |",
+            "| Physical education teacher | Any other teacher | 47.2 | 59.3 | 65.3 | 20.8 | 32.1 | 25.6 |",
+            "| Physical education teacher | No teacher | 44.0 | 32.2 | 24.9 | 17.2 | 13.4 | 10.6 |",
+            "| Physical education teacher | Total | 100 | 100 | 100 | 100 | 100 | 100 |",
+            "| Playground in the school | Playground in the school | 62.4 | 73.1 | 70.7 | 72.3 | 79.4 | 77.9 |",
+            "| Sports equipment available | Sports equipment available | 39.8 | 80.9 | 81.9 | 72.1 | 90.6 | 88.3 |",
+            "| Chart 1: Trends over time",
+            "| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |",
+            "| Chart 1: Trends over time",
+            "|  | 2006 | 2008 | 2010 | 2012 | 2014 | 2016 | 2018 | 2022 | 2024 |  |",
+            "| 11-14: Boys | 9.9 | 6.6 | 5.5 | 4.9 | 5.0 | 4.5 | 3.5 | 1.7 | 1.7 |  |",
+            "| 11-14: Girls | 19.6 | 14.8 | 12.1 | 11.2 | 12.1 | 9.7 | 7.4 | 2.9 | 3.5 |  |",
+            "| 15-16: Boys | 22.6 | 19.6 | 16.4 | 15.6 | 18.4 | 15.0 | 11.7 | 8.2 | 9.9 |  |",
+            "| 15-16: Girls | 37.7 | 32.2 | 27.7 | 29.8 | 31.1 | 25.4 | 20.1 | 9.4 | 12.7 |  |",
+            "| Chart 2: Trends over time                                                                                                                                                  % Children enrolled in government schools in Std I-V and Std VI-VIII by sex                                                            2018, 2022, 2024 | Chart 2: Trends over time                                                                                                                                                  % Children enrolled in government schools in Std I-V and Std VI-VIII by sex                                                            2018, 2022, 2024 | Chart 2: Trends over time                                                                                                                                                  % Children enrolled in government schools in Std I-V and Std VI-VIII by sex                                                            2018, 2022, 2024 | Chart 2: Trends over time                                                                                                                                                  % Children enrolled in government schools in Std I-V and Std VI-VIII by sex                                                            2018, 2022, 2024 | Chart 2: Trends over time                                                                                                                                                  % Children enrolled in government schools in Std I-V and Std VI-VIII by sex                                                            2018, 2022, 2024 |",
+            "| --- | --- | --- | --- | --- |",
+            "| Year | Std I-V | Std I-V | Std VI-VIII | Std VI-VIII |",
+            "| Year | Boys | Girls | Boys | Girls |",
+            "| 2018 | 55.8 | 66.9 | 60.1 | 71.5 |",
+            "| 2022 | 64.8 | 72.9 | 67.5 | 77.8 |",
+            "| 2024 | 51.7 | 61.5 | 59.7 | 72.1 |",
+            "| Chart 3: % Children who can read a Std II level text. By grade and sex. 2022 and 2024 | Chart 3: % Children who can read a Std II level text. By grade and sex. 2022 and 2024 | Chart 3: % Children who can read a Std II level text. By grade and sex. 2022 and 2024 | Chart 3: % Children who can read a Std II level text. By grade and sex. 2022 and 2024 | Chart 3: % Children who can read a Std II level text. By grade and sex. 2022 and 2024 | Chart 3: % Children who can read a Std II level text. By grade and sex. 2022 and 2024 | Chart 3: % Children who can read a Std II level text. By grade and sex. 2022 and 2024 |",
+            "| --- | --- | --- | --- | --- | --- | --- |",
+            "| Chart 3: % Children who can read a Std II level text. By grade and sex. 2022 and 2024 | Chart 3: % Children who can read a Std II level text. By grade and sex. 2022 and 2024 | Chart 3: % Children who can read a Std II level text. By grade and sex. 2022 and 2024 | Chart 3: % Children who can read a Std II level text. By grade and sex. 2022 and 2024 | Chart 3: % Children who can read a Std II level text. By grade and sex. 2022 and 2024 | Chart 3: % Children who can read a Std II level text. By grade and sex. 2022 and 2024 | Chart 3: % Children who can read a Std II level text. By grade and sex. 2022 and 2024 |",
+            "|  | Std III | Std III | Std V | Std V | Std VIII | Std VIII |",
+            "|  | Boys | Girls | Boys | Girls | Boys | Girls |",
+            "| 2022 | 14.6 | 13.6 | 39.8 | 36.5 | 69.4 | 74.0 |",
+            "| 2024 | 18.6 | 18.6 | 46.9 | 48.3 | 68.5 | 69.7 |",
+            "| Chart 4: % Children who can do division. By grade and sex. 2022 and 2024 | Chart 4: % Children who can do division. By grade and sex. 2022 and 2024 | Chart 4: % Children who can do division. By grade and sex. 2022 and 2024 | Chart 4: % Children who can do division. By grade and sex. 2022 and 2024 | Chart 4: % Children who can do division. By grade and sex. 2022 and 2024 |",
+            "| --- | --- | --- | --- | --- |",
+            "| Chart 4: % Children who can do division. By grade and sex. 2022 and 2024 | Chart 4: % Children who can do division. By grade and sex. 2022 and 2024 | Chart 4: % Children who can do division. By grade and sex. 2022 and 2024 | Chart 4: % Children who can do division. By grade and sex. 2022 and 2024 | Chart 4: % Children who can do division. By grade and sex. 2022 and 2024 |",
+            "|  | Std V | Std V | Std VIII | Std VIII |",
+            "|  | Boys | Girls | Boys | Girls |",
+            "| 2022 | 15.0 | 11.3 | 38.1 | 32.7 |",
+            "| 2024 | 23.6 | 20.0 | 35.4 | 31.0 |"
+        ]
+    }
+]
