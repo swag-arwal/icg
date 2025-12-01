@@ -719,3 +719,4 @@ if __name__ == "__main__":
         print("Pipeline completed successfully")
     else:
         logger.error("No tables were loaded. Halting execution.")
+a
