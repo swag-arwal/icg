@@ -678,6 +678,7 @@ if __name__ == "__main__":
         "Chhattisgarh.json",
         "Gujarat.json",
         "Harayan.json",
+        "West Bengal_Tables.json",
         "Himachal_pradesh.json"
 
     ]

@@ -1,0 +1,357 @@
+[
+    {
+        "title": "Table 1: % Children enrolled in different types of schools. By age group and sex. 2024",
+        "description": "Table 1: % Children enrolled in different types of schools. By age group and sex. 2024 in West Bengal",
+        "data": [
+            "| --- | --- | --- | --- | --- | --- |",
+            "| Age group and sex | Govt | Pvt | Other | Not in school | Total |",
+            "| Age 6-14: All | 89.6 | 8.7 | 0.7 | 0.9 | 100 |",
+            "| Age 7-16: All | 90.3 | 7.3 | 0.8 | 1.6 | 100 |",
+            "| Age 7-10: All | 86.4 | 12.8 | 0.4 | 0.4 | 100 |",
+            "| Age 7-10: Boys | 84.8 | 14.2 | 0.5 | 0.4 | 100 |",
+            "| Age 7-10: Girls | 87.9 | 11.4 | 0.3 | 0.4 | 100 |",
+            "| Age 11-14: All | 93.9 | 3.8 | 1.1 | 1.3 | 100 |",
+            "| Age 11-14: Boys | 93.0 | 4.7 | 0.7 | 1.6 | 100 |",
+            "| Age 11-14: Girls | 94.7 | 2.9 | 1.3 | 1.1 | 100 |",
+            "| Age 15-16: All | 91.1 | 2.0 | 1.5 | 5.4 | 100 |",
+            "| Age 15-16: Boys | 86.6 | 2.3 | 1.9 | 9.2 | 100 |",
+            "| Age 15-16: Girls | 94.4 | 1.8 | 1.2 | 2.6 | 100 |",
+            "| Chart 1: Trends over time",
+            "| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |",
+            "| Chart 1: Trends over time",
+            "|  | 2006 | 2008 | 2010 | 2012 | 2014 | 2016 | 2018 | 2022 | 2024 |",
+            "| 11-14: Boys | 13.7 | 10.4 | 8.3 | 6.5 | 6.5 | 4.8 | 3.5 | 1.5 | 1.6 |",
+            "| 11-14: Girls | 12.1 | 7.7 | 5.5 | 4.2 | 3.6 | 1.8 | 1.3 | 0.7 | 1.1 |",
+            "| 15-16: Boys | 33.2 | 27.3 | 25.4 | 20.2 | 19.9 | 19.8 | 19.2 | 7.4 | 9.2 |",
+            "| 15-16: Girls | 24.9 | 22.3 | 17.5 | 13.8 | 10.8 | 6.1 | 4.8 | 2.6 | 2.6 |",
+            "| Chart 2: Trends over time. % Children enrolled in government schools in Std I-V and Std VI-VIII by sex. 2018, 2022, 2024 | Chart 2: Trends over time. % Children enrolled in government schools in Std I-V and Std VI-VIII by sex. 2018, 2022, 2024 | Chart 2: Trends over time. % Children enrolled in government schools in Std I-V and Std VI-VIII by sex. 2018, 2022, 2024 | Chart 2: Trends over time. % Children enrolled in government schools in Std I-V and Std VI-VIII by sex. 2018, 2022, 2024 | Chart 2: Trends over time. % Children enrolled in government schools in Std I-V and Std VI-VIII by sex. 2018, 2022, 2024 |",
+            "| --- | --- | --- | --- | --- |",
+            "| Year | Std I-V | Std I-V | Std VI-VIII | Std VI-VIII |",
+            "| Year | Boys | Girls | Boys | Girls |",
+            "| 2018 | 87.4 | 88.7 | 97.2 | 98.1 |",
+            "| 2022 | 91.7 | 93.1 | 97.4 | 97.9 |",
+            "| 2024 | 86.4 | 89.4 | 96.7 | 97.9 |"
+        ]
+    },
+    {
+        "title": "Table 2: % Children enrolled in different types of pre-schools and schools. By age. 2022",
+        "description": "Table 2: % Children enrolled in different types of pre-schools and schools. By age. 2022 in West Bengal",
+        "data": [
+            "| --- | --- | --- | --- | --- | --- | --- | --- | --- |",
+            "| Age | Pre-school | Pre-school | Pre-school | School | School | School | Not in pre-school or school | Total |",
+            "| Age | Angan-wadi | Govt pre-primary | Pvt LKG/UKG | Govt | Pvt | Other | Not in pre-school or school | Total |",
+            "| Age 3 | 88.8 | 0.4 | 2.6 | 1.4 | 0.2 | 0.0 | 6.6 | 100 |",
+            "| Age 4 | 81.1 | 1.8 | 10.5 | 1.3 | 0.6 | 0.0 | 4.8 | 100 |",
+            "| Age 5 | 51.6 | 8.8 | 15.9 | 18.3 | 2.0 | 0.2 | 3.2 | 100 |",
+            "| Age 6 | 10.3 | 13.6 | 9.5 | 60.9 | 4.0 | 0.4 | 1.4 | 100 |",
+            "| Age 7 | 0.9 | 2.7 | 4.0 | 82.9 | 8.7 | 0.4 | 0.5 | 100 |",
+            "| Age 8 | 0.4 | 0.4 | 1.3 | 89.3 | 7.8 | 0.6 | 0.3 | 100 |"
+        ]
+    },
+    {
+        "title": "Table 3: % Children enrolled in different types of pre-schools and schools. By age. 2024",
+        "description": "Table 3: % Children enrolled in different types of pre-schools and schools. By age. 2024 in West Bengal",
+        "data": [
+            "| --- | --- | --- | --- | --- | --- | --- | --- | --- |",
+            "| Age | Pre-school | Pre-school | Pre-school | School | School | School | Not in pre-school or school | Total |",
+            "| Age | Angan-wadi | Govt pre-primary | Pvt LKG/ UKG | Govt | Pvt | Other | Not in pre-school or school | Total |",
+            "| Age 3 | 89.4 | 0.7 | 2.9 | 0.9 | 0.3 | 0.0 | 5.9 | 100 |",
+            "| Age 4 | 77.1 | 2.2 | 13.4 | 1.5 | 0.5 | 0.0 | 5.3 | 100 |",
+            "| Age 5 | 55.3 | 10.3 | 23.8 | 6.0 | 1.8 | 0.2 | 2.7 | 100 |",
+            "| Age 6 | 11.5 | 23.7 | 20.0 | 36.7 | 7.1 | 0.1 | 1.1 | 100 |",
+            "| Age 7 | 0.8 | 5.8 | 8.4 | 71.5 | 12.5 | 0.4 | 0.7 | 100 |",
+            "| Age 8 | 0.1 | 0.4 | 1.5 | 82.7 | 14.5 | 0.4 | 0.4 | 100 |"
+        ]
+    },
+    {
+        "title": "Table 4: % Children by grade and reading level. All children. 2024",
+        "description": "Table 4: % Children by grade and reading level. All children. 2024 in West Bengal",
+        "data": [
+            "| --- | --- | --- | --- | --- | --- | --- |",
+            "| Std | Not even letter | Letter | Word | Std I level text | Std II level text | Total |",
+            "| I | 15.9 | 33.4 | 27.9 | 12.9 | 9.9 | 100 |",
+            "| II | 9.2 | 20.2 | 22.7 | 21.5 | 26.4 | 100 |",
+            "| III | 6.1 | 15.3 | 19.9 | 22.4 | 36.3 | 100 |",
+            "| IV | 5.2 | 11.1 | 16.4 | 20.3 | 47.0 | 100 |",
+            "| V | 3.5 | 9.5 | 13.8 | 18.6 | 54.6 | 100 |",
+            "| VI | 2.7 | 7.5 | 10.8 | 17.3 | 61.7 | 100 |",
+            "| VII | 1.8 | 6.6 | 11.1 | 15.8 | 64.8 | 100 |",
+            "| VIII | 2.0 | 3.4 | 8.3 | 15.1 | 71.3 | 100 |"
+        ]
+    },
+    {
+        "title": "Table 5: Trends over time",
+        "description": "Table 5: Trends over time in West Bengal",
+        "data": [
+            "| --- | --- | --- | --- |",
+            "| Year | % Children in Std III who can read Std II level text | % Children in Std III who can read Std II level text | % Children in Std III who can read Std II level text |",
+            "| Year | Govt | Pvt | Govt & Pvt* |",
+            "| 2014 | 32.9 |  | 36.3 |",
+            "| 2016 | 34.0 |  | 38.5 |",
+            "| 2018 | 36.6 |  | 39.9 |",
+            "| 2022 | 32.6 |  | 33.1 |",
+            "| 2024 | 34.0 |  | 36.3 |"
+        ]
+    },
+    {
+        "title": "Table 6: Trends over time",
+        "description": "Table 6: Trends over time in West Bengal",
+        "data": [
+            "| --- | --- | --- | --- | --- | --- | --- |",
+            "| Year | % Children in Std V who can read Std II level text | % Children in Std V who can read Std II level text | % Children in Std V who can read Std II level text | % Children in Std VIII who can read Std II level text | % Children in Std VIII who can read Std II level text | % Children in Std VIII who can read Std II level text |",
+            "| Year | Govt | Pvt | Govt & Pvt* | Govt | Pvt | Govt & Pvt* |",
+            "| 2014 | 51.8 |  | 53.1 | 76.3 |  | 76.3 |",
+            "| 2016 | 50.2 |  | 51.1 | 72.3 |  | 72.7 |",
+            "| 2018 | 50.5 |  | 51.3 | 63.0 |  | 62.9 |",
+            "| 2022 | 47.1 |  | 47.5 | 69.8 |  | 69.7 |",
+            "| 2024 | 53.9 |  | 54.6 | 71.3 |  | 71.3 |",
+            "| Chart 3: % Children who can read a Std II level text. By grade and sex. 2022 and 2024 | Chart 3: % Children who can read a Std II level text. By grade and sex. 2022 and 2024 | Chart 3: % Children who can read a Std II level text. By grade and sex. 2022 and 2024 | Chart 3: % Children who can read a Std II level text. By grade and sex. 2022 and 2024 | Chart 3: % Children who can read a Std II level text. By grade and sex. 2022 and 2024 | Chart 3: % Children who can read a Std II level text. By grade and sex. 2022 and 2024 | Chart 3: % Children who can read a Std II level text. By grade and sex. 2022 and 2024 |",
+            "| --- | --- | --- | --- | --- | --- | --- |",
+            "| Chart 3: % Children who can read a Std II level text. By grade and sex. 2022 and 2024 | Chart 3: % Children who can read a Std II level text. By grade and sex. 2022 and 2024 | Chart 3: % Children who can read a Std II level text. By grade and sex. 2022 and 2024 | Chart 3: % Children who can read a Std II level text. By grade and sex. 2022 and 2024 | Chart 3: % Children who can read a Std II level text. By grade and sex. 2022 and 2024 | Chart 3: % Children who can read a Std II level text. By grade and sex. 2022 and 2024 | Chart 3: % Children who can read a Std II level text. By grade and sex. 2022 and 2024 |",
+            "|  | Std III | Std III | Std V | Std V | Std VIII | Std VIII |",
+            "|  | Boys | Girls | Boys | Girls | Boys | Girls |",
+            "| 2022 | 28.8 | 36.8 | 44.1 | 50.2 | 65.5 | 72.2 |",
+            "| 2024 | 33.3 | 38.9 | 50.9 | 57.8 | 66.9 | 73.9 |"
+        ]
+    },
+    {
+        "title": "Table 7: % Children by grade and arithmetic level. All children. 2024",
+        "description": "Table 7: % Children by grade and arithmetic level. All children. 2024 in West Bengal",
+        "data": [
+            "| --- | --- | --- | --- | --- | --- | --- |",
+            "| Std | Not even",
+            "| Std | Not even",
+            "| I | 14.3 | 42.8 | 31.2 | 9.0 | 2.7 | 100 |",
+            "| II | 6.6 | 28.2 | 34.6 | 17.4 | 13.2 | 100 |",
+            "| III | 4.4 | 19.5 | 35.2 | 18.6 | 22.3 | 100 |",
+            "| IV | 2.8 | 14.1 | 35.2 | 18.8 | 29.2 | 100 |",
+            "| V | 2.4 | 11.8 | 32.9 | 17.9 | 35.0 | 100 |",
+            "| VI | 2.3 | 8.2 | 37.9 | 17.3 | 34.2 | 100 |",
+            "| VII | 1.0 | 7.1 | 38.9 | 20.2 | 32.8 | 100 |",
+            "| VIII | 1.4 | 5.6 | 39.6 | 19.6 | 33.7 | 100 |"
+        ]
+    },
+    {
+        "title": "Table 8: Trends over time",
+        "description": "Table 8: Trends over time in West Bengal",
+        "data": [
+            "| --- | --- | --- | --- |",
+            "| Year | % Children in Std III who can do at least subtraction | % Children in Std III who can do at least subtraction | % Children in Std III who can do at least subtraction |",
+            "| Year | Govt | Pvt | Govt & Pvt* |",
+            "| 2014 | 33.0 |  | 36.2 |",
+            "| 2016 | 35.5 |  | 40.4 |",
+            "| 2018 | 35.5 |  | 38.7 |",
+            "| 2022 | 32.4 |  | 34.3 |",
+            "| 2024 | 37.5 |  | 41.0 |"
+        ]
+    },
+    {
+        "title": "Table 9: Trends over time",
+        "description": "Table 9: Trends over time in West Bengal",
+        "data": [
+            "| --- | --- | --- | --- | --- | --- | --- |",
+            "| Year | % Children in Std V who can do division | % Children in Std V who can do division | % Children in Std V who can do division | % Children in Std VIII who can do division | % Children in Std VIII who can do division | % Children in Std VIII who can do division |",
+            "| Year | Govt | Pvt | Govt & Pvt* | Govt | Pvt | Govt & Pvt* |",
+            "| 2014 | 31.3 |  | 32.5 | 40.4 |  | 40.8 |",
+            "| 2016 | 28.6 |  | 29.7 | 32.5 |  | 32.7 |",
+            "| 2018 | 29.2 |  | 29.7 | 28.9 |  | 29.1 |",
+            "| 2022 | 26.9 |  | 27.7 | 32.0 |  | 32.5 |",
+            "| 2024 | 34.3 |  | 34.9 | 33.5 |  | 33.8 |"
+        ]
+    },
+    {
+        "title": "Table 10: Smartphone availability and use. By age. 2024",
+        "description": "Table 10: Smartphone availability and use. By age. 2024 in West Bengal",
+        "data": [
+            "| --- | --- | --- | --- | --- |",
+            "| Age | % Children who: | % Children who: | % Children who: | Of those who can use a smartphone, % who have their own smartphone |",
+            "| Age | Have a smart-phone at home | Could bring a smartphone to do digital tasks* | Can use a smartphone | Of those who can use a smartphone, % who have their own smartphone |",
+            "| 14 | 82.6 | 62.2 | 82.6 | 6.8 |",
+            "| 15 | 84.3 | 67.8 | 85.5 | 11.0 |",
+            "| 16 | 87.2 | 71.7 | 86.8 | 25.8 |",
+            "| All | 84.4 | 66.6 | 84.7 | 13.4 |"
+        ]
+    },
+    {
+        "title": "Table 11: Smartphone availability and use among 14-16-year-olds. By sex. 2024",
+        "description": "Table 11: Smartphone availability and use among 14-16-year-olds. By sex. 2024 in West Bengal",
+        "data": [
+            "| --- | --- | --- | --- | --- |",
+            "| Sex | % Children who: | % Children who: | % Children who: | Of those who can use a smartphone, % who have their own smartphone |",
+            "| Sex | Have a smartphone at home | Could bring a smartphone to do digital tasks* | Can use a smart-phone | Of those who can use a smartphone, % who have their own smartphone |",
+            "| Boys | 86.1 | 71.6 | 88.2 | 19.0 |",
+            "| Girls | 83.1 | 63.3 | 82.4 | 9.5 |",
+            "| All | 84.4 | 66.6 | 84.7 | 13.4 |"
+        ]
+    },
+    {
+        "title": "Table 12: Of those who know how to use a smartphone, % children who used a smartphone in the reference week for any educational activity and social media activity, and know how to use safety features. By age. 2024",
+        "description": "Table 12: Of those who know how to use a smartphone, % children who used a smartphone in the reference week for any educational activity and social media activity, and know how to use safety features. By age. 2024 in West Bengal",
+        "data": [
+            "| --- | --- | --- | --- | --- | --- |",
+            "| Age | % Children who did the any education-related activity in reference week | % Children who used any social media in  reference week | Of those who used social media, % children who can: | Of those who used social media, % children who can: | Of those who used social media, % children who can: |",
+            "| Age | % Children who did the any education-related activity in reference week | % Children who used any social media in  reference week | Block/report a profile | Make a profile private | Change password |",
+            "| 14 | 40.5 | 73.5 | 40.0 | 26.9 | 37.4 |",
+            "| 15 | 42.5 | 76.2 | 53.1 | 41.0 | 46.5 |",
+            "| 16 | 47.8 | 79.6 | 58.9 | 50.3 | 56.0 |",
+            "| All | 43.2 | 76.1 | 49.7 | 38.3 | 45.7 |"
+        ]
+    },
+    {
+        "title": "Table 13: Of those who know how to use a smartphone, % children aged 14-16 who used a smartphone in the reference week for any educational activity and social media activity, and know how to use safety features, by sex. 2024",
+        "description": "Table 13: Of those who know how to use a smartphone, % children aged 14-16 who used a smartphone in the reference week for any educational activity and social media activity, and know how to use safety features, by sex. 2024 in West Bengal",
+        "data": [
+            "| --- | --- | --- | --- | --- | --- |",
+            "| Sex | % Children who did the any education-related activity in reference week | % Children who used any social media in  reference week | Of those who used social media, % children who can: | Of those who used social media, % children who can: | Of those who used social media, % children who can: |",
+            "| Sex | % Children who did the any education-related activity in reference week | % Children who used any social media in  reference week | Block/ report a profile | Make a profile private | Change password |",
+            "| Boys | 44.5 | 78.8 | 48.7 | 42.8 | 56.5 |",
+            "| Girls | 42.2 | 74.2 | 50.5 | 34.9 | 37.7 |",
+            "| All | 43.2 | 76.1 | 49.7 | 38.3 | 45.7 |"
+        ]
+    },
+    {
+        "title": "Table 14: % Children who could do digital tasks, by age and sex. 2024",
+        "description": "Table 14: % Children who could do digital tasks, by age and sex. 2024 in West Bengal",
+        "data": [
+            "| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |",
+            "| Age | % Children who could bring a smartphone to do digital tasks* | % Children who could bring a smartphone to do digital tasks* | % Children who could bring a smartphone to do digital tasks* | Of those who could bring a smartphone, % who could do the following tasks: | Of those who could bring a smartphone, % who could do the following tasks: | Of those who could bring a smartphone, % who could do the following tasks: | Of those who could bring a smartphone, % who could do the following tasks: | Of those who could bring a smartphone, % who could do the following tasks: | Of those who could bring a smartphone, % who could do the following tasks: | Of those who could bring a smartphone, % who could do the following tasks: | Of those who could bring a smartphone, % who could do the following tasks: | Of those who could bring a smartphone, % who could do the following tasks: | Of those who could bring a smartphone, % who could do the following tasks: | Of those who could bring a smartphone, % who could do the following tasks: | Of those who could bring a smartphone, % who could do the following tasks: |",
+            "| Age | % Children who could bring a smartphone to do digital tasks* | % Children who could bring a smartphone to do digital tasks* | % Children who could bring a smartphone to do digital tasks* | Setting an alarm | Setting an alarm | Setting an alarm | Browsing for information | Browsing for information | Browsing for information | Finding YouTube video | Finding YouTube video | Finding YouTube video | Of those who found video, % able to share it | Of those who found video, % able to share it | Of those who found video, % able to share it |",
+            "| Age | Boys | Girls | All | Boys | Girls | All | Boys | Girls | All | Boys | Girls | All | Boys | Girls | All |",
+            "| 14 | 67.2 | 58.8 | 62.2 | 64.2 | 50.3 | 56.3 | 59.4 | 56.3 | 57.7 | 81.9 | 78.8 | 80.1 | 85.5 | 73.2 | 78.6 |",
+            "| 15 | 72.2 | 65.2 | 67.8 | 68.1 | 53.0 | 58.9 | 59.1 | 61.6 | 60.6 | 84.0 | 83.7 | 83.8 | 89.3 | 82.4 | 85.1 |",
+            "| 16 | 77.3 | 67.6 | 71.7 | 78.4 | 57.5 | 67.1 | 69.2 | 61.6 | 65.1 | 91.8 | 85.7 | 88.5 | 91.4 | 88.4 | 89.8 |",
+            "| All | 71.6 | 63.3 | 66.6 | 69.9 | 53.3 | 60.3 | 62.4 | 59.7 | 60.9 | 85.7 | 82.4 | 83.8 | 88.6 | 80.9 | 84.3 |"
+        ]
+    },
+    {
+        "title": "Table 15: Trends over time",
+        "description": "Table 15: Trends over time in West Bengal",
+        "data": [
+            "| --- | --- | --- | --- | --- |",
+            "|  | 2010 | 2018 | 2022 | 2024 |",
+            "| Primary schools* | 406 | 437 | 470 | 467 |",
+            "| Upper primary schools* | 2 | 4 | 10 | 2 |",
+            "| Total schools visited | 408 | 441 | 480 | 469 |"
+        ]
+    },
+    {
+        "title": "Table 16: Trends over time",
+        "description": "Table 16: Trends over time in West Bengal",
+        "data": [
+            "| --- | --- | --- | --- | --- |",
+            "| All schools** | 2010 | 2018 | 2022 | 2024 |",
+            "| % Enrolled children present (Average) | 68.5 | 54.9 | 68.2 | 64.3 |",
+            "| % Teachers present (Average) | 85.6 | 76.7 | 86.3 | 83.8 |"
+        ]
+    },
+    {
+        "title": "Table 17: Trends over time",
+        "description": "Table 17: Trends over time in West Bengal",
+        "data": [
+            "| --- | --- | --- | --- | --- |",
+            "|  | 2010 | 2018 | 2022 | 2024 |",
+            "| All schools | 10.1 | 20.2 | 22.5 | 30.0 |"
+        ]
+    },
+    {
+        "title": "Table 18: Multigrade classes. 2024",
+        "description": "Table 18: Multigrade classes. 2024 in West Bengal",
+        "data": [
+            "| --- | --- | --- |",
+            "| % Schools | Std I children observed sitting with any other Std | Std II children observed sitting with any other Std |",
+            "| All schools | 66.5 | 57.0 |"
+        ]
+    },
+    {
+        "title": "Table 19: Observation of TLM (Teaching Learning Materials) in classrooms. 2024",
+        "description": "Table 19: Observation of TLM (Teaching Learning Materials) in classrooms. 2024 in West Bengal",
+        "data": [
+            "| --- | --- | --- | --- | --- |",
+            "| % Schools | TLM observed in classroom (apart from textbooks) | TLM observed in classroom (apart from textbooks) | Of those schools with TLM, work done by students displayed in classroom | Of those schools with TLM, work done by students displayed in classroom |",
+            "| % Schools | Std I | Std II | Std I | Std II |",
+            "| All schools | 76.7 | 74.4 | 65.1 | 66.1 |"
+        ]
+    },
+    {
+        "title": "Table 20: Trends over time",
+        "description": "Table 20: Trends over time in West Bengal",
+        "data": [
+            "| --- | --- | --- | --- | --- | --- |",
+            "| % Schools with | % Schools with | 2010 | 2018 | 2022 | 2024 |",
+            "| Mid-day meal | Mid-day meal served in school on the day of visit | 63.4 | 81.6 | 92.5 | 84.9 |",
+            "| Mid-day meal | Kitchen/shed for cooking mid-day meal | 86.3 | 94.0 | 95.8 | 93.8 |",
+            "| Drinking water | No facility for drinking water | 19.3 | 8.0 | 12.3 | 11.4 |",
+            "| Drinking water | Facility but no drinking water available | 13.5 | 10.7 | 9.6 | 13.1 |",
+            "| Drinking water | Drinking water available | 67.2 | 81.3 | 78.1 | 75.5 |",
+            "| Drinking water | Total | 100 | 100 | 100 | 100 |",
+            "| Toilet | No toilet facility | 7.6 | 0.7 | 1.0 | 1.3 |",
+            "| Toilet | Facility but toilet not useable | 40.3 | 18.2 | 15.0 | 16.4 |",
+            "| Toilet | Toilet usable | 52.1 | 81.1 | 84.0 | 82.3 |",
+            "| Toilet | Total | 100 | 100 | 100 | 100 |",
+            "| Girls' toilet | No separate provision for girls' toilet | 44.5 | 14.5 | 14.0 | 19.5 |",
+            "| Girls' toilet | Separate provision but locked | 14.5 | 12.2 | 5.6 | 5.4 |",
+            "| Girls' toilet | Separate provision, unlocked but not useable | 17.4 | 5.7 | 9.0 | 8.9 |",
+            "| Girls' toilet | Separate provision, unlocked and useable | 23.7 | 67.7 | 71.5 | 66.2 |",
+            "| Girls' toilet | Total | 100 | 100 | 100 | 100 |",
+            "| Library | No library | 50.5 | 33.9 | 53.0 | 47.1 |",
+            "| Library | Library but no books being used by children on the day of visit | 17.8 | 27.7 | 12.9 | 19.4 |",
+            "| Library | Library books being used by children on the day of visit | 31.8 | 38.4 | 34.0 | 33.5 |",
+            "| Library | Total | 100 | 100 | 100 | 100 |",
+            "| Electricity | Electricity connection |  | 97.7 | 98.1 | 99.4 |",
+            "| Electricity | Of schools with electricity connection, % schools with electricity available on the day of visit |  | 91.0 | 91.3 | 96.3 |",
+            "| Computer | No computer available for children to use | 98.7 | 93.3 | 94.8 | 95.3 |",
+            "| Computer | Computer available but not being used by children on the day of visit | 0.8 | 5.5 | 4.4 | 3.6 |",
+            "| Computer | Computer being used by children on the day of visit | 0.5 | 1.2 | 0.8 | 1.1 |",
+            "| Computer | Total | 100 | 100 | 100 | 100 |"
+        ]
+    },
+    {
+        "title": "Table 21: Foundational Literacy and Numeracy (FLN) activities. 2024",
+        "description": "Table 21: Foundational Literacy and Numeracy (FLN) activities. 2024 in West Bengal",
+        "data": [
+            "| --- | --- | --- | --- | --- | --- | --- | --- |",
+            "| % Schools | % Schools | Received a directive from govt to implement FLN activities with Std I-II/III | At least one teacher received training on FLN | At least one teacher received training on FLN | Received Teaching Learning Materials (TLM) for FLN activities** | Received funds for TLM for FLN activities** | School Readiness Programme held for Std l |",
+            "| % Schools | % Schools | Received a directive from govt to implement FLN activities with Std I-II/III | Offline | Online | Received Teaching Learning Materials (TLM) for FLN activities** | Received funds for TLM for FLN activities** | School Readiness Programme held for Std l |",
+            "| All schools* | Current academic year (2024-2025) | 10.3 | 8.6 | 7.7 | 30.7 | 26.1 | 33.4 |",
+            "| All schools* | Previous academic year (2023-2024) | 14.5 | 8.9 | 10.3 | 47.5 | 53.9 | 34 |"
+        ]
+    },
+    {
+        "title": "Table 22: Distribution of language and math textbooks. 2022 and 2024",
+        "description": "Table 22: Distribution of language and math textbooks. 2022 and 2024 in West Bengal",
+        "data": [
+            "| --- | --- | --- | --- | --- | --- | --- |",
+            "| % Schools | % Schools | Textbooks distributed | Textbooks distributed | Textbooks distributed | Textbooks distributed | If not distributed in all grades, then % schools where funds given |",
+            "| % Schools | % Schools | All grades | Some grades | No grades/ don’t know | Total | If not distributed in all grades, then % schools where funds given |",
+            "| All schools | 2022 | 98.5 | 1.5 | 0.0 | 100 |  |",
+            "| All schools | 2024 | 97.0 | 2.6 | 0.4 | 100 | 50.0 |"
+        ]
+    },
+    {
+        "title": "Table 23: Distribution of uniforms. All schools. 2022, 2024",
+        "description": "Table 23: Distribution of uniforms. All schools. 2022, 2024 in West Bengal",
+        "data": [
+            "| --- | --- | --- | --- | --- | --- | --- |",
+            "| % Schools | % Schools | Uniforms distributed | Uniforms distributed | Uniforms distributed | Uniforms distributed | If not distributed in all grades, then % schools where funds given |",
+            "| % Schools | % Schools | All grades | Some grades | No grades/ don’t know | Total | If not distributed in all grades, then % schools where funds given |",
+            "| All schools | 2022 | 86.6 | 8.8 | 4.6 | 100 |  |",
+            "| All schools | 2024 | 96.4 | 3.2 | 0.4 | 100 |  |"
+        ]
+    },
+    {
+        "title": "Table 24: Physical education. 2018, 2022 and 2024",
+        "description": "Table 24: Physical education. 2018, 2022 and 2024 in West Bengal",
+        "data": [
+            "| --- | --- | --- | --- | --- |",
+            "| % Schools with | % Schools with | All schools | All schools | All schools |",
+            "| % Schools with | % Schools with | 2018 | 2022 | 2024 |",
+            "| Weekly time allotted for physical education for every class | Weekly time allotted for physical education for every class |  | 77.0 | 85.3 |",
+            "| Physical education teacher | Separate teacher | 2.8 | 2.3 | 3.0 |",
+            "| Physical education teacher | Any other teacher | 70.9 | 71.9 | 74.2 |",
+            "| Physical education teacher | No teacher | 26.3 | 25.8 | 22.8 |",
+            "| Physical education teacher | Total | 100 | 100 | 100 |",
+            "| Playground in the school | Playground in the school | 52.6 | 57.8 | 60.0 |",
+            "| Sports equipment available | Sports equipment available | 54.3 | 57.7 | 61.3 |"
+        ]
+    }
+]
